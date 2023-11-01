@@ -25,17 +25,10 @@ Create the metrics according to the metrics list.
 Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
 Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
-
-## Data Model 
-
-<p align="center">
-  <-->
-</p>
-
 ## Dashboard 
 
 <p align="center">
-  <-->
+  <img src="https://github.com/vijaybhaskar98/Supply_chain_analysis_Atliqmall/assets/121448653/52cc2c42-75a9-46eb-85f5-1946dbca9c84">
 </p>
 
 ## Some Major Insights 
